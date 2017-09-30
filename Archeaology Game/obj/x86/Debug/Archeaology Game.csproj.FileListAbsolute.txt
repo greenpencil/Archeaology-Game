@@ -1,0 +1,37 @@
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\obj\x86\Debug\Archeaology Game.csprojResolveAssemblyReference.cache
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\obj\x86\Debug\Archeaology Game.csproj.CoreCompileInputs.cache
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\get-started.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\settings.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\start-dig.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\start.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Archeaology Game.exe
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Archeaology Game.pdb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\obj\x86\Debug\Archeaology Game.exe
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\obj\x86\Debug\Archeaology Game.pdb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\start_hover.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\settings_hover.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\logo.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\artefacts\full-pot-1.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\artefacts\pottery-fragment-1.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\artefacts\spear-tip-1.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\artefacts\text-fragment-1.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\digs\1.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\ui\artifact-found.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\ui\dig-here.xnb
+c:\users\katie\documents\visual studio 2017\Projects\Archeaology Game\Archeaology Game\bin\Windows\x86\Debug\Content\ui\inventory.xnb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/get-started.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start-dig.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start_hover.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings_hover.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/logo.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-1.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/pottery-fragment-1.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/spear-tip-1.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/text-fragment-1.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/artifact-found.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/dig-here.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/inventory.png</File>
+    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/digs/1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

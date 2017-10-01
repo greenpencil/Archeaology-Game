@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/pottery-fragment-1.png</SourceFile>
+  <SourceFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/pottery-fragment-1.png</SourceFile>
   <SourceTime>2017-09-30T12:50:31.6446627+01:00</SourceTime>
-  <DestFile>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/Content/artefacts/pottery-fragment-1.xnb</DestFile>
-  <DestTime>2017-09-30T17:17:26.5793635+01:00</DestTime>
+  <DestFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/Content/artefacts/pottery-fragment-1.xnb</DestFile>
+  <DestTime>2017-09-30T20:00:56.4181222+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-09-01T02:35:46+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

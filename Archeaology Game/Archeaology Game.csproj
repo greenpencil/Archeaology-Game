@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ArcheaologyGame.cs" />
     <Compile Include="Dig\Artefact.cs" />
+    <Compile Include="Dig\DigArea.cs" />
     <Compile Include="Dig\GameDig.cs" />
     <Compile Include="Dig\Site.cs" />
     <Compile Include="Discover\GameDiscovery.cs" />

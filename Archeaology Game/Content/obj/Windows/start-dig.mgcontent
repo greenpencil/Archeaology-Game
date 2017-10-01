@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Katie/Documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start-dig.png</SourceFile>
+  <SourceFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start-dig.png</SourceFile>
   <SourceTime>2017-09-28T09:59:36.6418241+01:00</SourceTime>
-  <DestFile>C:/Users/Katie/Documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/start-dig.xnb</DestFile>
-  <DestTime>2017-09-28T10:49:11.9971049+01:00</DestTime>
+  <DestFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/start-dig.xnb</DestFile>
+  <DestTime>2017-10-01T20:29:54.3398104+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-09-01T02:35:46+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

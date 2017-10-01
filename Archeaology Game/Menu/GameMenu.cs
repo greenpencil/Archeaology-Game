@@ -27,13 +27,21 @@ namespace Archeaology_Game.Menu
         Rectangle mouseBox;
         List<Button> buttonList;
         Texture2D logo;
+        Texture2D portrait;
+        Texture2D portraitSmall;
+        MouseState oldMouseState = Mouse.GetState();
 
         public void StartButtonPressed()
         {
-            game._state = GameState.DigState;
+
             game.player = new Player("Test");
+
+            game.player.PortraitSmall = portraitSmall;
+            game.player.Portrait = portrait;
+
+            game._state = GameState.DigState;
         }
-        
+
 
         public GameMenu(ArcheaologyGame game)
         {
@@ -64,6 +72,8 @@ namespace Archeaology_Game.Menu
 
             settingButton.Texture = content.Load<Texture2D>("settings");
             settingButton.HoverTexture = content.Load<Texture2D>("settings_hover");
+            portraitSmall =  content.Load<Texture2D>("portraits/evans-sm");
+            portrait = content.Load<Texture2D>("portraits/evans");
         }
 
         public void UnloadContent()
@@ -75,6 +85,7 @@ namespace Archeaology_Game.Menu
         {
             mouseBox.X = Mouse.GetState().X;
             mouseBox.Y = Mouse.GetState().Y;
+            MouseState mouseState = Mouse.GetState();
 
             foreach(Button button in buttonList)
             {
@@ -82,7 +93,7 @@ namespace Archeaology_Game.Menu
                 {
                     button.Hover = true;
 
-                    if (Mouse.GetState().LeftButton == ButtonState.Pressed)
+                    if (oldMouseState.LeftButton == ButtonState.Pressed && mouseState.LeftButton == ButtonState.Released)
                     {
                         button.Pressed();
                     }
@@ -93,6 +104,8 @@ namespace Archeaology_Game.Menu
                     button.Hover = false;
                 }
             }
+            
+            oldMouseState = mouseState;
         }
 
         /// <summary>

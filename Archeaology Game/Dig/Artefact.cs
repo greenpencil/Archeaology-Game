@@ -17,15 +17,14 @@ namespace Archeaology_Game.Dig
         private int posX;
         private int posY;
         private int depth;
-        private bool drawable;
+        public bool Drawable { get; set; }
 
-        public Artefact(String name, String description)
+        public Artefact(String name, String description, int depth)
         {
             this.name = name;
             this.description = description;
-            drawable = true;
-            Random r = new Random();
-            Depth = r.Next(6);
+            Drawable = false;
+            Depth = depth;
         }
 
         public Texture2D Texture {
@@ -78,7 +77,7 @@ namespace Archeaology_Game.Dig
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            if (drawable || Depth == 0)
+            if (Drawable || Depth == 0)
             {
                 spriteBatch.Draw(texture, boundingBox, null, Color.White);
             }

@@ -4,20 +4,42 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/get-started.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start-dig.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start_hover.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings_hover.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/logo.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-1.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/pottery-fragment-1.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/spear-tip-1.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/text-fragment-1.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/artifact-found.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/dig-here.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/inventory.png</File>
-    <File>c:/users/katie/documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/digs/1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/get-started.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start-dig.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/start_hover.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings_hover.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/logo.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/pottery-fragment-1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/spear-tip-1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/text-fragment-1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/artifact-found.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/dig-here.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/inventory.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/digs/1.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/next-day.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/aoe.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/portraits/evans.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/portraits/evans-sm.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-2.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-3.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-4.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-5.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-6.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-7.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-8.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-9.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-10.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/full-pot-11.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/artefacts/mozaic-fragment.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/fonts/mainFont.spritefont</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/person.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/1-day.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/2-day.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/3-day.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/4-day.png</File>
+    <File>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/ui/flag.png</File>
   </SourceFiles>
 </SourceFileCollection>

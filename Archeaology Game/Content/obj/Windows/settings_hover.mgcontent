@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Katie/Documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings_hover.png</SourceFile>
+  <SourceFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/settings_hover.png</SourceFile>
   <SourceTime>2017-09-28T11:09:39.2696338+01:00</SourceTime>
-  <DestFile>C:/Users/Katie/Documents/visual studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/settings_hover.xnb</DestFile>
-  <DestTime>2017-09-28T15:46:43.4153755+01:00</DestTime>
+  <DestFile>C:/Users/Katie/Documents/Visual Studio 2017/Projects/Archeaology Game/Archeaology Game/Content/bin/Windows/settings_hover.xnb</DestFile>
+  <DestTime>2017-10-01T20:29:54.4165148+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-09-01T02:35:46+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
